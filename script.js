@@ -27,7 +27,4 @@ function calcularOperacao()
     var resultado = document.querySelector("#screen").innerHTML = "";
     alert("Nada para calcular, digite sua operação matemática")
     }
-
 }
-
-alteração importante
